@@ -1,4 +1,7 @@
-# Gerador-de-CSS-com-IA
+ LINK DO SITE:  https://gerador-de-ia-devclub.netlify.app/
+ 
+ 
+ Gerador-de-CSS-com-IA
  Um gerador de código visual em tempo real para desenvolvedores e designers.
  O sistema permite que o usuário digite uma descrição em linguagem natural (como "Bola azul pingando") dentro de um campo de texto. Ao   clicar no botão de ação, a IA processa o comando e gera automaticamente as estilizações e animações correspondentes. O resultado é renderizado instantaneamente em uma área de visualização na própria tela.
 
@@ -11,3 +14,5 @@
  JavaScript: Manipula o DOM de forma assíncrona, captura o texto do usuário e gerencia a comunicação com a 
  
  IA.Inteligência Artificial: Processa a solicitação do usuário através de uma API e gera os blocos de código CSS funcionais.
+
+ 
